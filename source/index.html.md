@@ -4,7 +4,7 @@ title: Powercode API Reference
 language_tabs:
   - shell
   - ruby
-  - python
+  - php
   - javascript
 
 toc_footers:
